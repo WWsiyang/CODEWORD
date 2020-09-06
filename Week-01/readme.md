@@ -20,3 +20,13 @@ I shared the books that I have been reading:
 *Irving, W. (1884). Life of George Washington. United States: Lippincott.*
 
 *Norman, D. (2013). The Design of Everyday Things: Revised and Expanded Edition. United States: Basic Books.*
+
+The team has also shared about what they have been reading, which is pretty interesting as well:
+
+- ***The Wind-up Bird Chronicle***
+- ***The Sun and Her Flowers***
+
+![9780099448792](https://user-images.githubusercontent.com/68985229/92321182-65e69a80-f06b-11ea-867a-5c4052e06fca.jpg) ![41H7E-gBdvL _AC_SY400_](https://user-images.githubusercontent.com/68985229/92321343-83683400-f06c-11ea-8a67-779a0537f320.jpg)
+
+*Murakami, H. (2011). The Wind-up Bird Chronicle. United Kingdom: Vintage.*
+*Kaur, R. (2017). The Sun and Her Flowers. United Kingdom: Simon & Schuster UK.*
