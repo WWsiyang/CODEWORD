@@ -4,7 +4,7 @@ This week we got a start go at how the course is structured overall. We learn ab
 
 [Week1Materials](https://drive.google.com/drive/folders/1G21z95TwWmkE1V7Sd08cL_Sm7DSOokO3)
 
-## Practice 
+## Discussion 
 In Andy Simionato's own word:
 >We actally read more than anytime in the history ever! 
 
@@ -40,5 +40,12 @@ The team has also shared about what they have been reading, which is pretty inte
 *Oscar Wilde Profile Photo. photo from goodreads*
 
 *Manson, M. (2016). The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life. Australia: Pan Macmillan Australia.*
+
+## Practice
+My first experience in Minecraft, although I have heard of the programme many times, it is fun indeed, just do not know how my talented classmates create all sorts of stuff.
+
+![week_1_minecraft_lesson_02](https://user-images.githubusercontent.com/68985229/92458359-9e6fab00-f208-11ea-8a16-bd8554be0e25.jpg)
+
+[photo from google drive]([Week1Materials](https://drive.google.com/drive/folders/1G21z95TwWmkE1V7Sd08cL_Sm7DSOokO3))
 
 
