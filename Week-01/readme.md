@@ -40,3 +40,5 @@ The team has also shared about what they have been reading, which is pretty inte
 *Oscar Wilde Profile Photo. photo from goodreads*
 
 *Manson, M. (2016). The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life. Australia: Pan Macmillan Australia.*
+
+
