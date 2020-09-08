@@ -46,6 +46,6 @@ My first experience in Minecraft, although I have heard of the programme many ti
 
 ![week_1_minecraft_lesson_02](https://user-images.githubusercontent.com/68985229/92458359-9e6fab00-f208-11ea-8a16-bd8554be0e25.jpg)
 
-[photo from google drive]([Week1Materials](https://drive.google.com/drive/folders/1G21z95TwWmkE1V7Sd08cL_Sm7DSOokO3))
+[photo from google drive](https://drive.google.com/drive/folders/1G21z95TwWmkE1V7Sd08cL_Sm7DSOokO3)
 
 
