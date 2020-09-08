@@ -26,6 +26,7 @@ As a group we did meet up and we started to work on common miro board and google
 *from miro board*
 at each of the scene we discussed through script, we also drop down visual references from films to show the vision we had for each of these scenes, so that we can be at the same page, think we just figure out a great way of doing group project online.
 
+![Screen Shot 2020-09-09 at 1 38 44 am](https://user-images.githubusercontent.com/68985229/92498077-85cdb800-f23d-11ea-9149-be81b510dc1e.JPG)
 [script first draft](https://docs.google.com/document/d/1WgoUWJ-hBFhOqOPKxN4vSNMM6sSR0MrueVGS22FdW4c/edit#heading=h.9wq8tgm2lkrx)
 
 ![Screen Shot 2020-09-09 at 1 13 02 am](https://user-images.githubusercontent.com/68985229/92495425-3afe7100-f23a-11ea-86a6-a27496350fcd.JPG)
