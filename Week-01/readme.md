@@ -48,6 +48,13 @@ My first experience in Minecraft, although I have heard of the programme many ti
 
 [photo from google drive](https://drive.google.com/drive/folders/1G21z95TwWmkE1V7Sd08cL_Sm7DSOokO3)
 
+***Processing***
+
+At last we did a quick learn about processing and I did a homeowrk of my last name inital: W. Coming from a motion graphic background, I am really excited about movement with some research I did on p5,js, I created an interactive W
+
+![Screen Shot 2020-09-08 at 9 38 19 pm](https://user-images.githubusercontent.com/68985229/92471753-cae0f280-f21b-11ea-8cf3-440c68811353.JPG)
+
+[alphabets google slides](https://docs.google.com/presentation/d/1fY3fW1HAv9GUez2q78iYkFVGgBCZON5ddkUNkVmRs8s/edit#slide=id.g8ec9788730_14_0)
 
 
 
