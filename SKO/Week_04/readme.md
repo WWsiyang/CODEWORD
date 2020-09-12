@@ -15,6 +15,11 @@ On the storyboard we updated on the script side by side on the scene accordingly
 
 Regarding to the voice, I did up to 4 times to get it right, to me, my biggest reference on voice is from the film *Watchmem(2009)* and *Taxi Driver*
 
-
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_04/rorschach.JPG)
 [Rorschach's Voice](https://www.youtube.com/watch?v=sF8zxctevXc&t=13s)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_04/travis.JPG)
 [Travis Bickle's voice](https://www.youtube.com/watch?v=kGTY-7e3iT0)
+
+I used GarageBand for recording and I did insert music, sound effects and edited my own voice accordingly.
+
+
