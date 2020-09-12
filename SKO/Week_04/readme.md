@@ -13,3 +13,8 @@ On the storyboard we updated on the script side by side on the scene accordingly
 
 [Updated Script](https://docs.google.com/document/d/19jYVR71h8XhRFNsr-k470x9JxL-L0lmXoieETXrT_1o/edit)
 
+Regarding to the voice, I did up to 4 times to get it right, to me, my biggest reference on voice is from the film *Watchmem(2009)* and *Taxi Driver*
+
+
+[Rorschach's Voice](https://www.youtube.com/watch?v=sF8zxctevXc&t=13s)
+[Travis Bickle's voice](https://www.youtube.com/watch?v=kGTY-7e3iT0)
