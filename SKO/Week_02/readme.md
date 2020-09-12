@@ -25,4 +25,5 @@ For homework, I did an edition based on Jamie Tung's alphabet, it is hard to und
 ![Screen Shot 2020-09-08 at 10 03 55 pm](https://user-images.githubusercontent.com/68985229/92474896-e64dfc80-f21f-11ea-8ece-ebb7f2b8caa0.JPG)
 
 [alphabet link](https://docs.google.com/presentation/d/1fY3fW1HAv9GUez2q78iYkFVGgBCZON5ddkUNkVmRs8s/edit#slide=id.g8ec9788730_14_12)
+
 [C](https://wwsiyang.github.io/CODEWORD/SKO/Week_02/Letter_C)
