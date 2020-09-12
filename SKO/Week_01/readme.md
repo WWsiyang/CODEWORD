@@ -57,7 +57,7 @@ At last we did a quick learn about processing and I did a homeowrk of my last na
 
 [alphabets google slides](https://docs.google.com/presentation/d/1fY3fW1HAv9GUez2q78iYkFVGgBCZON5ddkUNkVmRs8s/edit#slide=id.g8ec9788730_14_0)
 
-[W](https://wwsiyang.github.io/CODEWORD/Letter_W/)
+[W](https://wwsiyang.github.io/CODEWORD/SKO/Week_01/Letter_W)
 
 
 
