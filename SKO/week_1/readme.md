@@ -54,7 +54,4 @@ At last we did a quick learn about processing and I did a homeowrk of my last na
 
 ![Screen Shot 2020-09-08 at 9 38 19 pm](https://user-images.githubusercontent.com/68985229/92471753-cae0f280-f21b-11ea-8cf3-440c68811353.JPG)
 
-[w](https://wwsiyang.github.io/CODEWORD/SKO/Week_1/W/W.js/)
-
-
-
+[W](https://wwsiyang.github.io/CODEWORD/SKO/Week_1/W/)
