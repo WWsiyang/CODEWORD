@@ -26,4 +26,6 @@ I used GarageBand for recording and I did insert music, sound effects and edited
 
 We have learnt more about working with text in p5.js. Made a few minal variations based on the codes Karen created 
 
-
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_04/code2.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_04/code3.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_04/code4.png)
