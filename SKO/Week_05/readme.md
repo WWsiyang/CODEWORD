@@ -6,6 +6,7 @@ This week is mostly about looking at the digital interpretation of *House of Lea
 
 [HOL Introduction](https://www.youtube.com/watch?v=uiOQQN-uh4c)
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_05/film.JPG)
+
 ## Practice 
 
 [Script](https://docs.google.com/document/d/19jYVR71h8XhRFNsr-k470x9JxL-L0lmXoieETXrT_1o/edit)
