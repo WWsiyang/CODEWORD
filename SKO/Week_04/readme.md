@@ -24,4 +24,6 @@ Regarding to the voice, I did up to 4 times to get it right, to me, my biggest r
 
 I used GarageBand for recording and I did insert music, sound effects and edited my own voice accordingly.
 
+We have learnt more about working with text in p5.js. Made a few minal variations based on the codes Karen created 
+
 
