@@ -16,4 +16,14 @@ The way that we have always been working is that on the post production side, we
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_05/sound.JPG)
 
+During lunch time everyone was celebriting by send each other what we eat. Indeed we not only teammates, but developed further friendship and decided to hang out after the restriction has lifted. 
+
+## Coding 
+
+We learnt about how to use large body of texts as well. And I actually decided to bring this to another level by adding rotating and transform function to make it into a poster for my *Capstone Project*
+
+modified code
+
+
+
 
