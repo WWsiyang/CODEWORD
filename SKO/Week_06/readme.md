@@ -2,7 +2,17 @@
 
 We learnt about how to use large body of texts as well. And I actually decided to bring this to another level by adding rotating and transform function to make it into a poster for my *Capstone Project*
 
+When experimented with this existing code from Karen, I tried to make it rotate and it takes sometimes and some researches, through this I learnt that the random rotation by default started at (0,0) coordinates, I also changed the type rotation to 90 as how I wanted. I have to rewrite how I wanted the pivot point to centre. I also added a white stroke around the text to give it a glitchy, desconstructive look and feel.
+
 modified code
+
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/3.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/4.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/5.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/6.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/7.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/8.png)
+
 
 A list of typographic artists I have been researching on lately:
 
