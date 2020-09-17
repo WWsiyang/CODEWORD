@@ -16,3 +16,10 @@ Inspiration/Moodboard
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/inspiration1.JPG)
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/inspiration2.JPG)
 
+## Feedbacks
+
+***the actcidential shaow resulted in the prototype can be applied into final design as a reflection of self*** 
+
+***simplify the narration more***
+
+***generative results-generate a different text/conclusion each time user interract with it*** 
