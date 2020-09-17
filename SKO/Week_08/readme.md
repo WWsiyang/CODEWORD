@@ -11,6 +11,30 @@ As Cayley (1998b) points out, alphabetic language can be considered a digital st
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/prototype.gif)
 
+***1.book*** 
+
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/1.gif)
+
+***2.open book*** 
+
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/2.gif)
+
+***3.text matrix*** 
+
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/3.gif)
+
+***4.Infinite*** 
+
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/4.gif)
+
+***5.computer & bindary code*** 
+
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/5.gif)
+
+***6.generative outcome: Electronic Literature*** 
+
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/6.gif)
+
 Inspiration/Moodboard
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/inspiration1.JPG)
