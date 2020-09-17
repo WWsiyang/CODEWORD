@@ -11,4 +11,8 @@ As Cayley (1998b) points out, alphabetic language can be considered a digital st
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/prototype.gif)
 
+Inspiration/Moodboard
+
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/inspiration1.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/inspiration2.png)
 
