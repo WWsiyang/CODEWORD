@@ -12,6 +12,8 @@ I simplified my prototye and break down into flow chart of 4 stages:
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/2.gif)
 
+I have done this code here for now 
+
 ***2. combine/recombine*** 
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/3.gif)
