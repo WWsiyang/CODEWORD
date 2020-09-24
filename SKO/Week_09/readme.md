@@ -39,3 +39,6 @@ I haven't find the exact library that suits me, but the cloest I got is this one
 
 and I do have my first part of the code done. Just a very simple fading, and I am a bit stucked on how to proceed from here. My understanding is that it is probably gonna be different classes invovle. But I am still not sure how could I morph/transit from one to another.
 
+# What I have Now 
+
+
