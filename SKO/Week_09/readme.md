@@ -14,6 +14,8 @@ I simplified my prototye and break down into flow chart of 4 stages:
 
 I have done this code here for now 
 
+[fading](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/digital_poetry_fadingupdown)
+
 ***2. combine/recombine*** 
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_08/3.gif)
