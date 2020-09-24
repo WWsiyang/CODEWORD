@@ -10,11 +10,14 @@ I have the shuffle works for me thanks to Karen, I am able to generate a few tex
 
 [textmorphing](https://editor.p5js.org/tom.smith/sketches/YEEdV1KCF)
 
-
 the reason for that is due to the text context of transform from one sentenc to another due to:"endlessly combined" to "recombined"
 
 # experimental restults 
-
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/1.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/2.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/3.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/5.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/7.png)
 
 
 ## Flow Chart
