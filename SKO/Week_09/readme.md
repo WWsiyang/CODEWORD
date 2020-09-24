@@ -41,4 +41,7 @@ and I do have my first part of the code done. Just a very simple fading, and I a
 
 # What I have Now 
 
+2nd atempt 
+
+[fading](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/digital_poetry_fading_shuffle_typewrite)
 
