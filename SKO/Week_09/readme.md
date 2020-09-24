@@ -1,5 +1,22 @@
 # Coding Process
 
+# What I have Now
+
+2nd atempt 
+
+[my current coding](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/digital_poetry_fading_shuffle_typewrite)
+
+I have the shuffle works for me thanks to Karen, I am able to generate a few text context each time and I set the leading to be my mouseX, so it generates interesting result each time. However I still want the different letters to be able to generate different variable texts each time. Right now I donot see the processing of sentence A morph into sentence B. that is eventually what I wanted to acheive. like this:
+
+[textmorphing](https://editor.p5js.org/tom.smith/sketches/YEEdV1KCF)
+
+
+the reason for that is due to the text context of transform from one sentenc to another due to:"endlessly combined" to "recombined"
+
+# experimental restults 
+
+
+
 ## Flow Chart
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/flowchart.jpg)
@@ -39,13 +56,5 @@ I haven't find the exact library that suits me, but the cloest I got is this one
 
 and I do have my first part of the code done. Just a very simple fading, and I am a bit stucked on how to proceed from here. My understanding is that it is probably gonna be different classes invovle. But I am still not sure how could I morph/transit from one to another.
 
-# What I have Now 
 
-2nd atempt 
-
-[fading](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/digital_poetry_fading_shuffle_typewrite)
-
-I have the shuffle works for me thanks to Karen, I am able to generate a few text content each time and I set the leading to be my mouseX, so it generates interesting result each time. However I still want the different letters to be able to generate different variable texts each time. Right now I donot see the processing of sentence A morph into sentence B. that is eventually what I wanted to acheive. like this:
-
-[textmorphing](https://editor.p5js.org/tom.smith/sketches/YEEdV1KCF)
 
