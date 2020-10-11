@@ -19,7 +19,7 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(windowWidth,windowHeight);
+  createCanvas(windowWidth/2,windowHeight/2);
   //textAlign(CENTER,CENTER);
   background('#151c36');
   
