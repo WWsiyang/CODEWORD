@@ -111,20 +111,20 @@ function draw() {
   print(fade);
   
     
-   //body text 
+  //body text 
    textFont(subfont);
-  textSize(width/80);
-   fill(random(fade,255));
+  textSize(width/120);
+   fill(255);
    noStroke();
    text("As Cayley (1998b) points out, alphabetic language can be considered a digital structure because it consists of a small symbol set that can be endlessly combined and recombined to produce an infinite number of words and texts. The computer is the most conspicuous instance of networked and programmable media that rely on binary code, but it is by no means the first medium to use digitized language.",
    0, 0,width,height);
     text("As Cayley (1998b) points out, alphabetic language can be considered a digital structure because it consists of a small symbol set that can be endlessly combined and recombined to produce an infinite number of words and texts. The computer is the most conspicuous instance of networked and programmable media that rely on binary code, but it is by no means the first medium to use digitized language ",
     0,height-(height/10), width, height);
     
-   textSize(width/40);
+   textSize(width/55);
    //fill(fade);
     text("THE TIME OF DIGITAL POETRY: From Object to Event ",
-   width/10, height/6,width,height);
+   width/4.5, height/6,width,height);
 
    
   
@@ -140,7 +140,7 @@ function draw() {
    
    noFill();
    stroke(255);
-   rect(width/20,height/3.2,width/1.1,height/2.1);
+   //rect(width/20,height/3.2,width/1.1,height/2.1);
   //stroke(255,0,0);
  //rain 
     
