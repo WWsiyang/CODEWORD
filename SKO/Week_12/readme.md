@@ -17,8 +17,12 @@ My plan of continue to combine the body text code failed somehow, but the good n
 This week for my Capstone, I have applied some codes I worked on to my final design with mutiple layers of them putting together and with some help of AE for compositing:
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/particelarray.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/sphere.png)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/virus.png)
 
 [particle array](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/Particle_array)
+
+[virusconnection](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/Particle_virus_nobg)
 
 ***follow tutorial by Traversy Media
 
