@@ -46,7 +46,7 @@ A list of typographic artists I have been researching on lately:
 
 
 ### [Home](https://github.com/WWsiyang/CODEWORD/tree/master/) 
-### [Next Week](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_08) | Paper Prototyping
+### [Next Week](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_07) | Holiday No Holiday
 
 
 
