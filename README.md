@@ -4,7 +4,7 @@
 This course is about coding, design, typography, chats, stresses and a lots of laughers. 
 
 
-![pic](https://wwsiyang.github.io/CODEWORD/SKO/images/dp.gif)
+![pic](https://wwsiyang.github.io/CODEWORD/images/dp.gif)
 
 
 ## Reflection
