@@ -26,6 +26,8 @@ This week for my Capstone, I have applied some codes I worked on to my final des
 
 ***follow tutorial by Traversy Media
 
+Design Outcomes:
+
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/atomic.gif)
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/pandemic.gif)
 
