@@ -14,5 +14,9 @@ My plan of continue to combine the body text code failed somehow, but the good n
 
 ## CapStone GKO
 
-This week for my Capstone, I have applied some codes I worked on to my final design with mutiple layers together and with some help of AE:
+This week for my Capstone, I have applied some codes I worked on to my final design with mutiple layers of them putting together and with some help of AE for compositing:
 
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/atomic.gif)
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/pandemic.gif)
+
+### [Home](https://github.com/WWsiyang/CODEWORD/tree/master/) 
