@@ -14,6 +14,12 @@ When experimented with this existing code from Karen, I tried to make it rotate 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/7.png)
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/8.png)
 
+Final Design Outcome:
+I applied my coding experimental outcome with the help of photoshop created my second self poster
+
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/poster.jpg)
+
+
 
 A list of typographic artists I have been researching on lately:
 
