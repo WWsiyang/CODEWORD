@@ -3,7 +3,9 @@
 
 This course is about coding, design, typography, chats, stresses and a lots of laughers. 
 
+
 ![pic](https://github.com/WWsiyang/CODEWORD/digitalpoetry.gif)
+
 
 ## Reflection
 
