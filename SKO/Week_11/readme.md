@@ -24,5 +24,7 @@ For my GKO, as I am working on an installation prototype with the help of proces
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_11/tnt.gif)
 
+***follow tutorial by Traversy Media***
+
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_11/tntdesign.jpg)
 final design
