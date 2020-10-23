@@ -1,6 +1,6 @@
 # Coding Process
 
-# What I have Now
+## Exploration Fun!
 
 Right now it is really about having fun with these after I figured out how to change to my customised particle types. Be that of images, shapes, in my case typography, as it is the most effective communication when it comes to “alphabetic language endlessly combined and recombined.” I experimented with various sizes, tones, speed, colours and typefaces and even symbols. I also have figured out how to add a body/subtitle text on top and make it not affected by the movement of the particles by applying push and pop functions, credit goes to Karen.
 
