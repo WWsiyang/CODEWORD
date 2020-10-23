@@ -9,9 +9,9 @@ Through this course, I have learnt about JavaScript, in particular p5.js. I have
 
 ### [Week01](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_01) | Begining of a Whole New Journey
 
-### [Week002](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_02) | All About Interpretation
+### [Week02](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_02) | All About Interpretation
 
-### [Week3](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_03) | Generative Text is the New Black
+### [Week03](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_03) | Generative Text is the New Black
 
 ### [Week04](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_04) | Film Making
 
