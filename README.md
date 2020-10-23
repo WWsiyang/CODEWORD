@@ -6,6 +6,7 @@ This course is about coding, design, typography, chats, stresses and a lots of l
 
 ![pic](https://wwsiyang.github.io/CODEWORD/images/dp.gif)
 
+[Major Project Final](https://wwsiyang.github.io/CODEWORD/SKO/Final_Assignment/Textparticle_151020_rain_1/)
 
 ## Reflection
 
