@@ -48,3 +48,7 @@ Inspiration/Moodboard
 - generative results-generate a different text/conclusion each time user interract with it
 
 Overall, I have learnt the importance of generative design. It is another way of thinking that opens up a lot of possibilities, and that can be achieved by JavaScript. It is exciting knowing that it is possible for me to create a narratives with multiple outcomes.
+
+
+### [Home](https://github.com/WWsiyang/CODEWORD/tree/master/) 
+### [Next Week](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_09) | Major Project Coding Process
