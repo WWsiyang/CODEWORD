@@ -28,3 +28,7 @@ For my GKO, as I am working on an installation prototype with the help of proces
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_11/tntdesign.jpg)
 Design Outcome
+
+
+### [Home](https://github.com/WWsiyang/CODEWORD/tree/master/) 
+### [Next Week](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_12) | Final Adjustment
