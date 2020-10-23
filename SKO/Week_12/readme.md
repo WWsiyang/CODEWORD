@@ -16,6 +16,8 @@ My plan of continue to combine the body text code failed somehow, but the good n
 
 This week for my Capstone, I have applied some codes I worked on to my final design with mutiple layers of them putting together and with some help of AE for compositing:
 
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/particelarray.png)
+
 [particle array](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/Particle_array)
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/atomic.gif)
