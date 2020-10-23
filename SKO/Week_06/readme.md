@@ -14,8 +14,7 @@ When experimented with this existing code from Karen, I tried to make it rotate 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/7.png)
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/8.png)
 
-Final Design Outcome:
-I applied my coding experimental outcome with the help of photoshop created my second self poster
+I applied my coding experimental outcome with the help of photoshop created one of my Capstone self-promotional posters
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_06/poster.jpg)
 
@@ -46,6 +45,8 @@ A list of typographic artists I have been researching on lately:
 [herbert bayer](https://www.google.com/search?q=herbert+bayer&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjZ2ajq1vPqAhV6zjgGHV_RBqoQ_AUoAXoECB4QAw&biw=1645&bih=851)
 
 
+### [Home](https://github.com/WWsiyang/CODEWORD/tree/master/) 
+### [Next Week](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_07) | Holiday No Holiday
 
 
 
