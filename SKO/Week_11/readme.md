@@ -17,3 +17,9 @@ Well, think I have just got a misunderstanding on what Karen and Andy said about
 [bodytype](https://wwsiyang.github.io/CODEWORD/SKO/Week_11/bodytext)
 
 I plan to combine this code and my particle text together, but at the same time also worried that it might be too much going on.
+
+## CapStone GKO
+
+For my GKO, as I am working on an installation prototype with the help of processing and AE. There is a data visualisation on how the amount of nuclear weapons on this planet earth could rebuild the island of Manhattan. I decided to use p5.js help out a bit here.
+
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_11/tnt.gif)
