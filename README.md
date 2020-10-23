@@ -33,6 +33,6 @@ Through this course, I have learnt about JavaScript, in particular p5.js. I have
 
 ### [Week11](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_11) | Major Project Coding Process
 
-### [Week12](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_12) | Final
+### [Week12](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_12) | Final Adjustment
 
 ### [Final](https://wwsiyang.github.io/CODEWORD/SKO/Final_Assignment/Textparticle_151020_rain_1/) | Major Project Final
