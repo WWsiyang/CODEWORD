@@ -31,3 +31,7 @@ We have learnt more about working with text in p5.js. Made a few minal variation
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_04/code2.JPG)
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_04/code3.JPG)
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_04/code4.JPG)
+
+
+### [Home](https://github.com/WWsiyang/CODEWORD/tree/master/) 
+### [Next Week](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_05) | It's Premiere Time
