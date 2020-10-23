@@ -61,4 +61,4 @@ At last we did a quick learn about processing and I did a homeowrk of my last na
 
 
 ### [Home](https://github.com/WWsiyang/CODEWORD/tree/master/) 
-### [Week02](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_02) | All About Interpretation
+### [Next Week](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_02) | All About Interpretation
