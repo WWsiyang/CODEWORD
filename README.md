@@ -30,3 +30,5 @@ Through this course, I have learnt about JavaScript, in particular p5.js. I have
 [Week11](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_11)
 
 [Week12](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_12)
+
+[Final](https://wwsiyang.github.io/CODEWORD/SKO/Final_Assignment/Textparticle_151020_rain_1/)
