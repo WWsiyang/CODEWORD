@@ -1,8 +1,9 @@
 
 # Prototyping
 
-## Practice 
-Second round of paper prototyping 
+## Second round of paper prototyping 
+
+This round of refinement is highly based on what I have from last week. As I have a clearer picture on which phrase to work on. Just added in more details movement and layout. 
 
 ### The Time of Digital Poetry: From Object to Event 
 *N. Katherine Hayles *
@@ -42,8 +43,8 @@ Inspiration/Moodboard
 
 ## Feedbacks
 
-***the actcidential shaow resulted in the prototype can be applied into final design as a reflection of self*** 
+- the actcidential shaow resulted in the prototype can be applied into final design as a reflection of self
+- simplify the narration more
+- generative results-generate a different text/conclusion each time user interract with it
 
-***simplify the narration more***
-
-***generative results-generate a different text/conclusion each time user interract with it*** 
+Overall, I have learnt the importance of generative design. It is another way of thinking that opens up a lot of possibilities, and that can be achieved by JavaScript. It is exciting knowing that it is possible for me to create a narratives with multiple outcomes.
