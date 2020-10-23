@@ -24,3 +24,6 @@ I actually selected two different phrases from the article and did two versions 
 ### Feedback
 
 I got generally positive feedbacks, and most of the people think second version is much better to work with. Andy has also mentioned to me at this stage, do not think about too much on user experience yet. Now I have to figure out if I could rearrange letters to form different words also how to transit from one page to another.
+
+### [Home](https://github.com/WWsiyang/CODEWORD/tree/master/) 
+### [Next Week](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_08) | Paper Prototyping
