@@ -34,3 +34,8 @@ Right now it is really about having fun with these after I figured out how to ch
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_10/17.png)
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_10/18.png)
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_10/19.png)
+
+
+
+### [Home](https://github.com/WWsiyang/CODEWORD/tree/master/) 
+### [Next Week](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_11) | Major Project Coding Process
