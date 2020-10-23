@@ -12,6 +12,7 @@ I actually selected two different phrases from the article and did two versions 
 
 >These poem- events, similar to the readers they construct and require, are rivers that flow, processes that evolve, materiality that emerge contingently, flickering in the constantly changing plays of meanings.
 
+
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_07/prototypeweb1.jpg)
 
 
