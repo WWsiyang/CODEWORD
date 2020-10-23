@@ -20,3 +20,7 @@ I actually selected two different phrases from the article and did two versions 
 >As Cayley (1998b) points out, alphabetic language can be considered a digital structure because it consists of a small symbol set that can be endlessly combined and recombined to produce an infinite number of words and texts. The computer (or, as he prefers to call it, the “programmaton”) is the most conspicuous instance of networked and programmable media (in Cayley’s terms, “npm”) that rely on binary code, but it is by no means the first medium to use digitized language. 
 
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_07/prototypeweb2.jpg)
+
+### Feedback
+
+I got generally positive feedbacks, and most of the people think second version is much better to work with. Andy has also mentioned to me at this stage, do not think about too much on user experience yet. Now I have to figure out if I could rearrange letters to form different words also how to transit from one page to another.
