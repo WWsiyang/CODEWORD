@@ -19,5 +19,7 @@ The way that we have always been working is that on the post production side, we
 During lunch time everyone was celebriting by send each other what we eat. Indeed we not only teammates, but developed further friendship and decided to hang out after the restriction has lifted. 
 
 
+### [Home](https://github.com/WWsiyang/CODEWORD/tree/master/) 
+### [Next Week](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_06) | Coding Experimentation
 
 
