@@ -20,6 +20,8 @@ This week for my Capstone, I have applied some codes I worked on to my final des
 
 [particle array](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/Particle_array)
 
+***follow tutorial by Traversy Media
+
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/atomic.gif)
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_12/pandemic.gif)
 
