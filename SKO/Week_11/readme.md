@@ -12,3 +12,8 @@
 
 Well, think I have just got a misunderstanding on what Karen and Andy said about resize it to half. I have also got feedback these weeks on how I should just keep it simple and make it like black and white for my particle texts. Also that I have to figure out a layout that best suited my work. As everything is here, but need to work on the design. Based on these feedbacks. I have tried this code:
 
+![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_11/tryout.gif)
+
+[bodytype](https://wwsiyang.github.io/CODEWORD/SKO/Week_11/bodytext)
+
+I plan to combine this code and my particle text together, but at the same time also worried that it might be too much going on.
