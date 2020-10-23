@@ -36,3 +36,7 @@ we wanted to have some of these abstract scenes to show the inner world of the c
 
 ![tumblr_oj0ff4Zzpa1w0eosxo6_r3_1280](https://user-images.githubusercontent.com/68985229/92496349-5ddd5500-f23b-11ea-90f5-4a3db47d6d42.jpg)
 [Abstract Scenes References](https://conceptframes.design/post/155170772500/title-sequence-for-sherlock-holmes-a-game-of)
+
+
+### [Home](https://github.com/WWsiyang/CODEWORD/tree/master/) 
+### [Next Week](https://github.com/WWsiyang/CODEWORD/tree/master/SKO/Week_04) | Film Making
