@@ -3,11 +3,15 @@
 ## What I have Now
 
 1st atempt
+
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/fade.gif)
+
 [1st attempted coding fading](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/digital_poetry_fadingupdown)
 
 2nd atempt 
+
 ![pic](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/type.gif)
+
 [2nd attempted coding shuffle](https://wwsiyang.github.io/CODEWORD/SKO/Week_09/digital_poetry_fading_shuffle_typewrite)
 
 I have the shuffle works for me thanks to Karen, I am able to generate a few text contexts each time and I set the leading to be my mouseX, so it generates interesting result each time. However I still want the different letters to be able to generate different variable texts each time. Right now I do not see the processing of sentence A morph into sentence B. that is eventually what I wanted to achieve. Like this:
